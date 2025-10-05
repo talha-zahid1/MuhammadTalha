@@ -38,8 +38,8 @@ Bachelor of Science in Software Engineering (BSSE)
 
 ## 📫 Contact Me
 - 📍 Karachi, Pakistan  
-- ✉ *Email:* yourname@email.com (replace with your real email)  
-- 💼 *GitHub:* [github.com/yourusername](https://github.com/yourusername)
+- ✉ *Email:* mt109208@gmail.com
+- 💼 *GitHub:* [github.com/talha-zahid1]
 
 ---
 
